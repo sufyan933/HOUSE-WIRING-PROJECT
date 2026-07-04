@@ -42,7 +42,7 @@ The project demonstrates the practical application of electrical engineering con
 The following image shows the floor plan used for designing the electrical distribution network.
 
 <p align="center">
-<img src="Images/House_Layout.png" width="900">
+<img src="House_Layout.png" width="900">
 </p>
 
 ---
@@ -52,7 +52,7 @@ The following image shows the floor plan used for designing the electrical distr
 The complete electrical circuit was designed and simulated using Multisim. The wiring network includes lighting circuits, fan circuits, socket outlets, air conditioning loads, kitchen appliances, and UPS backup integration.
 
 <p align="center">
-<img src="Images/House_Wiring_Circuit.png" width="900">
+<img src="House_Wiring_Circuit.png" width="900">
 </p>
 
 ---
@@ -164,7 +164,7 @@ The total load for each room was calculated by summing the power ratings of all 
 The chart below represents room-wise power consumption within the house.
 
 <p align="center">
-<img src="Images/Room_Power_Distribution.png" width="900">
+<img src="Room_Power_Distribution.png" width="900">
 </p>
 
 ### Summary
@@ -286,7 +286,7 @@ To improve system reliability, a UPS backup system was incorporated.
 The final project implementation and simulation results are shown below.
 
 <p align="center">
-<img src="Images/Final_Project_Result.png" width="900">
+<img src="Final_Project_Result.png" width="900">
 </p>
 
 ---
